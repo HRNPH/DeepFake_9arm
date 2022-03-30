@@ -16,7 +16,7 @@
 <br>
 <a href='https://www.youtube.com/watch?v=lSM-9RBk3HQ'>วีดีโอสอน (thai)</a>
 
-- HRNPH (9Arm เข้ารับตำแหน่ง รมต กระทรวงเทคโนโลยีและเวทมนต์ (DeepFake))
+- HRNPH (9Arm เข้ารับตำแหน่ง รมต กระทรวงเทคโนโลยีและเวทมนต์ (DeepFake)) กดที่รูปเพื่อดูวีดีโอเต็ม
 [![Watch the video](https://img.youtube.com/vi/Hxw6_ZGaHC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)
 
 # Readme.md Format
