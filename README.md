@@ -8,5 +8,19 @@
 - place it in the same dat_src or dat_dst /align folder to skip face extraction process
 
 # Example Result
-### not yet added this's just a placeholder
-[![Watch the video](https://img.youtube.com/vi/rzAaFExQvlU/maxresdefault.jpg)](https://www.youtube.com/)
+### Feel Free to submit pull request to add your video in the list
+### ใครทำวีดีโอมา ร่วมสนุก เพิ่มวีดีโอใน reademe.md แล้วเปิด pull Request มาได้เลยครับ
+
+#### Tutorials Recommended (English better than Thai)
+<a href='https://www.youtube.com/watch?v=lSM-9RBk3HQ'>Tutorial (eng)</a> 
+<br>
+<a href='https://www.youtube.com/watch?v=lSM-9RBk3HQ'>วีดีโอสอน (thai)</a>
+
+- HRNPH (9Arm เข้ารับตำแหน่ง รมต กระทรวงเทคโนโลยีและเวทมนต์ (DeepFake))
+[![Watch the video](https://img.youtube.com/vi/Hxw6_ZGaHC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)
+
+# Readme.md Format
+### add this to the list using your own video id
+<h5>- Author (Video Name)</h5>
+<h5>[![Watch the video](https://img.youtube.com/vi/Hxw6_ZGaHC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)</h5>
+#### Commit & pull req Title : Add Video {Name} : {description <- (optional)} 
