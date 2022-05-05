@@ -22,7 +22,7 @@
 # Readme.md Format
 ### add this to the list using your own video id
 <h5>- Author (Video Name)</h5>
-<h5>[![Watch the video](https://img.youtube.com/vi/Hxw6_ZGaHC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)</h5>
+<h5>[![Watch the video](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)</h5>
 #### Commit & pull req Title : Add Video {Name (shorten if too long)} : {description <- (optional)}
 
 ## note
