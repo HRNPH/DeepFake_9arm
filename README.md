@@ -14,7 +14,7 @@
 #### Tutorials Recommended (English better than Thai)
 <a href='https://www.youtube.com/watch?v=lSM-9RBk3HQ'>Tutorial (eng)</a> 
 <br>
-<a href='https://www.youtube.com/watch?v=lSM-9RBk3HQ'>วีดีโอสอน (thai)</a>
+<a href='https://www.youtube.com/watch?v=rzAaFExQvlU'>วีดีโอสอน (thai)</a>
 
 - HRNPH (9Arm เข้ารับตำแหน่ง รมต กระทรวงเทคโนโลยีและเวทมนต์ (DeepFake)) <b>กดที่รูปเพื่อดูวีดีโอเต็ม</b>
 [![Watch the video](https://img.youtube.com/vi/Hxw6_ZGaHC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hxw6_ZGaHC0)
